@@ -1,4 +1,7 @@
+# src/tests/conftest.py
+
 import pytest
+
 from src import app, db
 
 
